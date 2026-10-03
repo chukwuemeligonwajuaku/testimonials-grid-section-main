@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:    [https://github.com/chukwuemeligonwajuaku/testimonials-grid-section-main ]
-- Live Site URL: 
+- Live Site URL: [https://chukwuemeligonwajuaku.github.io/testimonials-grid-section-main/]
 
 ## My process
 
@@ -71,7 +71,7 @@ i used in guiding me on responsive styling
 
 ## Author
 
-- Website - 
+- Website - [https://chukwuemeligonwajuaku.github.io/testimonials-grid-section-main/]
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - 
 
